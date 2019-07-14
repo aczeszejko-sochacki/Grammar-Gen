@@ -1,0 +1,14 @@
+{
+  "VERB_SG_FIN_M_TER" : "verb:fin:sg:ter.*:refl",
+  "VERB_IMPS" : "verb:imps",
+  "SUBST_SG_NOM_M" : "subst:sg:nom:m",
+  "SUBST_SG_ACC_M1" : "subst:sg:acc:m1",
+  "SUBST_PL_ACC_F" : "subst:pl:acc:f",
+  "SUBST_PL_ACC_N2" : "subst:pl:acc:n2",
+  "ADJ_SG_NOM_M" : "adj:sg:nom.voc:m1.m2.m3",
+  "ADJ_SG_ACC_M1" : "adj:sg:acc:m1",
+  "ADJ_PL_ACC_F_N2" : "adj:pl:acc:m2.m3.f.n1.n2.p2.p3",
+  "ADV" : "adv:",
+  "PREP_ACC" : "prep:acc",
+  "CONJ" : "^conj$"
+}
